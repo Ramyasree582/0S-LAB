@@ -8,4 +8,4 @@
 ![program output](roundrobin_eo_582.jpeg)
 
 #RoundRobin permission
-![permission](premission_582.jpeg)
+![permission](permission_582.jpeg)
