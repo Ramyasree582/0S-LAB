@@ -47,31 +47,6 @@ LAB PROGRAMS
 ##tested input and output of Priority
 ![tested input](EXP9/1d/PRIORITY_EO_582.jpeg)
 
-# MVT program status
-
-##program files of MVT
-![program file](EXP12/MVTfile.c)
-![program_file](EXP12/MVT_code_582.jpeg)
-
-##sample input and output of MVT
-![sample input](EXP12/mvt_IO1_582.jpeg)
-
-##tested input and output of MVT
-![tested input](EXP12/mvt_EO1_582.jpeg)
-
-
-# MFT program status
-
-##program files of MFT
-![program file](EXP12/MFTfile.c)
-![program_file](EXP12/MFT_code_582.jpeg)
-
-##sample input and output of MFT
-![sample input](EXP12/MFT_IO_582.jpeg)
-
-##tested input and output of MFT
-![tested input](EXP12/MFT_EO_582.jpeg)
-
 # Producer&Consumer program status
 
 ##program files of Producer&Consumer
@@ -96,6 +71,29 @@ LAB PROGRAMS
 ##tested input and output of Dining Philosopher
 ![tested input](EXP11/DiningPhilosopher_EO_582.jpeg)
 
+# MVT program status
+
+##program files of MVT
+![program file](EXP12/MVTfile.c)
+![program_file](EXP12/MVT_code_582.jpeg)
+
+##sample input and output of MVT
+![sample input](EXP12/mvt_IO1_582.jpeg)
+
+##tested input and output of MVT
+![tested input](EXP12/mvt_EO1_582.jpeg)
+
+# MFT program status
+
+##program files of MFT
+![program file](EXP12/MFTfile.c)
+![program_file](EXP12/MFT_code_582.jpeg)
+
+##sample input and output of MFT
+![sample input](EXP12/MFT_IO_582.jpeg)
+
+##tested input and output of MFT
+![tested input](EXP12/MFT_EO_582.jpeg)
 # Worst Fit program status
 
 ##program files of WorstFit
